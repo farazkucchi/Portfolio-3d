@@ -50,7 +50,7 @@ const SceneIndex = ({}) => {
         <TitleL>{`Joseph Dale`}</TitleL>
         <Sparkles count={60} scale={[20, 20, 10]} size={1} speed={2} />
       </Suspense>
-      <EffectComposer multisampling={0} disableNormalPass={false}>
+      <EffectComposer multisampling={0} enableNormalPass={false}>
         <Bloom
           luminanceThreshold={0}
           luminanceSmoothing={0.9}
