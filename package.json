@@ -13,7 +13,7 @@
     "@babel/plugin-transform-runtime": "^7.17.0",
     "@react-spring/web": "^9.5.2",
     "@react-three/cannon": "^6.3.0",
-    "@react-three/drei": "^9.17.3",
+    "@react-three/drei": "^9.122.0",
     "@react-three/fiber": "^8.2.1",
     "@react-three/postprocessing": "^2.5.0",
     "babel-plugin-glsl": "^1.0.0",
@@ -23,7 +23,8 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-icons": "^4.4.0",
-    "three": "^0.154.0",
+    "three": "^0.159.0",
+    "three-mesh-bvh": "^0.8.3",
     "three-stdlib": "^2.12.1",
     "zustand": "^4.0.0-rc.4"
   },
